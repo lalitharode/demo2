@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: bike-rent
+Version: 0.0.1
+Author: lalit
+Author-email: lalitharode20141996@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: flask
